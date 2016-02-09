@@ -1,0 +1,42 @@
+git test question
+use git command promt is best
+how install
+what happen when git init 
+setting up new repositry
+when you add
+how to back
+rest HEAD
+rm --cached
+git status
+how to check git work at the moment 
+by git status
+clear the concept of commit
+minimum 10 Q's can be occurs
+message must be in past tense
+because of you done the work
+must read summary
+what is working directory and head
+file statuses Q,s can occurs on the basis of senario
+must read staging area 
+understand time metapour
+what is git log
+what it shows about auther email 
+what is .gitignor
+what it did
+what is git tag
+must read branch
+concept of branch
+aliases
+stashing
+merge
+ex 2.1 2.2
+diff command
+hash
+must read the summaries
+
+  
+git reset hard head
+must the the bulb notes
+
+
+ 
